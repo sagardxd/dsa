@@ -1,5 +1,4 @@
-// Coding Ninja
-// -> Find Unique
+// Coding Ninja #Find Unique
 
 int findUnique(int *arr, int size)
 {
